@@ -132,3 +132,5 @@ Change the game to follow these rules:
   (Hint: you will need CSS to position the second dice,
     so take a look at the CSS code for the first one.)
 */
+
+function--
